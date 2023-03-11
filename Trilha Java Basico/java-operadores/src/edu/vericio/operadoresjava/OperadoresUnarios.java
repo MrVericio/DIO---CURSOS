@@ -1,3 +1,5 @@
+package edu.vericio.operadoresjava;
+
 public class OperadoresUnarios {
     public static void main(String[] args) {
         // Operadores unários (+, -, ++, --, !) atuam juntos a outros operadores

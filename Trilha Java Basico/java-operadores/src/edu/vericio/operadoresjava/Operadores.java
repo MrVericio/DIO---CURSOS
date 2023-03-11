@@ -1,3 +1,5 @@
+package edu.vericio.operadoresjava;
+
 import java.util.Date;
 
 public class Operadores {

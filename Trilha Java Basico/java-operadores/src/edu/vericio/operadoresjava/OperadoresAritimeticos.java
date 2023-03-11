@@ -1,3 +1,5 @@
+package edu.vericio.operadoresjava;
+
 public class OperadoresAritimeticos {
     public static void main(String[] args) {
         // Operadores Aritiméticos: '+, -, /, *, %' - Lembrando que o simbolo '%' não é

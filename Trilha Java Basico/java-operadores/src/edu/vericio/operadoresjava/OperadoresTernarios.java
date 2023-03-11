@@ -1,3 +1,5 @@
+package edu.vericio.operadoresjava;
+
 public class OperadoresTernarios {
     public static void main(String[] args) {
         // Operadores Ternários são representados por '?' e ":"

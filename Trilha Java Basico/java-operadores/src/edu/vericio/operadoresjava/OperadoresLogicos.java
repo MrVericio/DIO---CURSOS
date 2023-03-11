@@ -1,3 +1,5 @@
+package edu.vericio.operadoresjava;
+
 public class OperadoresLogicos {
     public static void main(String[] args) {
         /* Operadores Lógicos: " &&, ||" */

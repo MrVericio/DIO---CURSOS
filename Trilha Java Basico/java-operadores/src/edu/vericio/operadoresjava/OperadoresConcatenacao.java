@@ -1,3 +1,5 @@
+package edu.vericio.operadoresjava;
+
 public class OperadoresConcatenacao {
     public static void main(String[] args) {
         // Exemplo de como o operador '+' é utilizado para concatenar uma String(texto).
