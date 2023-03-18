@@ -1,3 +1,5 @@
+package edu.vericio.terminaisargumentos;
+
 public class AboutMe {
     public static void main(String[] args) {
         // Os argumentos começam com indice 0

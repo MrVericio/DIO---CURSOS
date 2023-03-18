@@ -1,3 +1,5 @@
+package edu.vericio.terminaisargumentos;
+
 import java.util.Locale;
 import java.util.Scanner;
 
