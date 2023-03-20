@@ -1,3 +1,5 @@
+package edu.vericio.operadoreslogicos;
+
 public class ExemploTres {
     public static void main(String[] args) {
         // Exemplo de Boas Práticas no código - 3 exemplos do mesmo código

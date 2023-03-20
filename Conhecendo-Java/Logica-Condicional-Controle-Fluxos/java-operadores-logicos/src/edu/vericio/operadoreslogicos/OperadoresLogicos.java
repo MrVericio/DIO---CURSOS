@@ -1,3 +1,5 @@
+package edu.vericio.operadoreslogicos;
+
 public class OperadoresLogicos {
     public static void main(String[] args) {
         // Exemplos
