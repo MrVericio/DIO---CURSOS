@@ -1,18 +1,46 @@
-## Getting Started
+# Estrutura de Dados em JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Pilhas 
+[LIFO: Last In, First Out]
+Explicação teórica do conceito de Pilhas
 
-## Folder Structure
+### Uma Pilha
+#### Regras de Uma Pilha
 
-The workspace contains two folders by default, where:
+LIFO
+Last in First Out
+O último elemento que entra é o primeiro a sair
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+#### Encadeamento de Nó
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+#### Estrutura da Pilha
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+#### Método Top
 
-## Dependency Management
+No meuNo = pilha.top();
+No meuNo = 
+int numero = meuNo.getInt(); 
+int numero =
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### Método Pop
+
+No meuNo = pilha.pop();
+No meuNo = 
+int numero = meuNo.getInt(); 
+int numero =
+
+#### Método Push
+
+No meuNo = new No();
+meuNo.setInt(1);
+meuNo
+
+#### Método isEmpty
+
+public boolean isEmpty(){
+	if(refNo == null){
+		return true;
+	}
+	return false;
+} 
+
